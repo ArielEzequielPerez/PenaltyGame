@@ -11,6 +11,6 @@
 
 # Integrantes
 
-- (Ariel Perez)[https://github.com/ArielEzequielPerez]
-- (Jonathan Oviedo)[https://github.com/jonathano118]
-- (Leonardo Olmedo)[https://github.com/lgo1980]
+- [Ariel Perez](https://github.com/ArielEzequielPerez)
+- [Jonathan Oviedo](https://github.com/jonathano118)
+- [Leonardo Olmedo](https://github.com/lgo1980)
